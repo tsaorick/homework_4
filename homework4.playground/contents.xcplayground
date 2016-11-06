@@ -6,5 +6,10 @@
         <page name='所有格子總和,除了列&gt;行'/>
         <page name='func_3~98,5的倍數'/>
         <page name='func_3~11,非5的倍數'/>
+        <page name='func_奇數行總和'/>
+        <page name='func_所有格子總和,除了列&gt;行'/>
+        <page name='累加值3_if'/>
+        <page name='累加值_while'/>
+        <page name='func_氣溫轉換'/>
     </pages>
 </playground>
